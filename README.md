@@ -1,47 +1,25 @@
-<<<<<<< HEAD
-# 🌟 Personal Portfolio Website
-
-Welcome to my personal portfolio website!  
+🌟 Personal Portfolio Website
+Welcome to my personal portfolio website!
 Ye website mere skills, projects, aur experience ko showcase karti hai.
 
----
+🚀 Features
+- Responsive Design
+- Clean UI
+- Smooth Animations
+- Project Showcase Section
+- Contact Form
 
-## 🚀 Features
-- Responsive Design  
-- Clean UI  
-- Smooth Animations  
-- Project Showcase Section  
-- Contact Form  
+🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub (Version Control)
+- GitHub Pages / Netlify (Deployment)
 
----
+💻 How to Run Locally
+- Clone or download the repository
+- Open portfolio folder
+- Open index.html file in browser (or use Live Server in VS Code)
 
-## 🛠️ Technologies Used
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **Git & GitHub** (Version Control)  
-- **GitHub Pages / Netlify** (Deployment)
-
----
-
-## 💻 How to Run Locally
-1. Clone or download the repository  
-2. `portfolio` (project folder) ko open karo  
-3. `index.html` file ko double-click karke browser me open karo  
-   - (Ya VS Code me **Live Server** use karke run kare)
-
----
-
-## 🔗 Demo Link  
-**(Deploy hone ke baad yahan link add hoga)**  
-> Coming soon…
-
----
-
-## 📞 Contact  
-Agar aap mujhse contact karna chahte hain:  
-**Email:** your-email@example.com  
-
-=======
-# Portfolio
->>>>>>> 3579ed7036570cfeb94e6231fc3928addc2f213f
+📞 Contact
+- Email: your-email@example.com
