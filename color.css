@@ -1,88 +1,29 @@
-/* BASIC SETTINGS */
 body {
-    margin: 0;
     font-family: Arial, sans-serif;
-    background: #f4f4f4;
-}
-
-/* NAVBAR */
-.navbar {
-    background: white;
-    padding: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    position: sticky;
-    top: 0;
-    z-index: 100;
-}
-
-.navbar ul {
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    list-style: none;
-    padding: 0;
     margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
 }
 
-.navbar a {
-    text-decoration: none;
-    color: black;
-    font-weight: bold;
-    font-size: 18px;
-}
-
-.navbar a:hover {
-    color: #6200ea;
-}
-
-/* HEADER */
 header {
     text-align: center;
-    padding: 50px;
-    background: #6200ea;
+    padding: 50px 0;
+    background-color: #4CAF50;
     color: white;
 }
 
-header span {
-    color: yellow;
-}
-
-/* SECTION STYLE */
 section {
-    padding: 40px;
-    margin: 20px;
-    background: white;
-    border-radius: 10px;
+    padding: 40px 20px;
 }
 
-/* SKILLS */
-.skills-box p {
-    background: #e8e8e8;
-    display: inline-block;
-    padding: 8px 12px;
-    margin: 5px;
-    border-radius: 5px;
-}
-
-/* PROJECT CARD */
 .project-card {
-    background: white;
+    border: 1px solid #ddd;
     padding: 20px;
-    margin: 15px 0;
+    margin-bottom: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-}
-
-.project-card h3 {
-    color: #6200ea;
-}
-
-/* FOOTER */
-footer {
-    text-align: center;
-    padding: 20px;
-    background: #6200ea;
-    color: white;
+    background-color: white;
 }
 
 

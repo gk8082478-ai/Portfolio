@@ -1,25 +1,18 @@
+# Gayatri Kumari Portfolio
+
 🌟 Personal Portfolio Website
-Welcome to my personal portfolio website!
-Ye website mere skills, projects, aur experience ko showcase karti hai.
 
-🚀 Features
-- Responsive Design
-- Clean UI
-- Smooth Animations
-- Project Showcase Section
-- Contact Form
+This website showcases my skills and projects.
 
-🛠️ Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub (Version Control)
-- GitHub Pages / Netlify (Deployment)
+## Projects
+1. Stock Management System (PHP + MySQL)  
+2. Calculator Application (Python)  
+3. Banking Application  
 
-💻 How to Run Locally
-- Clone or download the repository
-- Open portfolio folder
-- Open index.html file in browser (or use Live Server in VS Code)
+## How to Run Locally
+1. Clone or download the repository  
+2. Open `index.html` in your browser (or use Live Server in VS Code)  
 
-📞 Contact
-- Email: your-email@example.com
+## Contact
+Email: gk8082478@gmail.com
+
