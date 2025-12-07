@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 Personal Portfolio Website
 
 Welcome to my personal portfolio website!  
@@ -41,3 +42,6 @@ Ye website mere skills, projects, aur experience ko showcase karti hai.
 Agar aap mujhse contact karna chahte hain:  
 **Email:** your-email@example.com  
 
+=======
+# Portfolio
+>>>>>>> 3579ed7036570cfeb94e6231fc3928addc2f213f
